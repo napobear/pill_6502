@@ -1,3 +1,7 @@
 [submodule "libopencm3"]
 	path = libopencm3
 	url = https://github.com/libopencm3/libopencm3
+
+[submodule "pill_6502-EhBASIC"]
+	path = ehbasic
+	url = https://github.com/napobear/pill_6502-EhBASIC
